@@ -1,4 +1,4 @@
 age = 19
 fourtytwo = 42
-ageplus42 = age + fourtytwo
-print(ageplus42)
+my_age = age + fourtytwo
+print(my_age)
